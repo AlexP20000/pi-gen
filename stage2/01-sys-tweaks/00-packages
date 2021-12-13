@@ -31,3 +31,5 @@ libapache2-mod-php5
 mysql-server
 php-mysql
 phpmyadmin
+grafana
+composer
